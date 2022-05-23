@@ -1,14 +1,13 @@
 {
-	"skills":
-	{
-		1:"HTTP requests",
-		2:"API testing",
-		3:"sniffing",
-		4:"Browser Dev Tools",
-		5:"Mobile tetsing",
-		6:"ADB",
-		7:"SQL",
-		8:"Python"
-	}
+	"1":"Git bash",
+	"2":"Postman",
+	"3":"JavaScript",
+	"4":"Dev tools",
+	"5":"Mobile testing",
+	"6":"SQL",
+	"7":"Charles",
+	"8":"Scrum",
+	"9":"Jmeter",
+	"10":"Python"
 }
 

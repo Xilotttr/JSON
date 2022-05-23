@@ -1,6 +1,7 @@
 {
-	"full name":"Абрамович Дмитрий Александрович",
-	"age":23,
-	"number of pets":0 ,
-	"expected salary":"100$"
+	"Full name":"Abramovich Dmitry Aleksandrovich",
+	"Age":24,
+	"Number of pets":1,
+	"Expected salary":1000
+
 }
